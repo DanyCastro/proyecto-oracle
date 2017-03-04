@@ -6,6 +6,6 @@
 ### Que es Scrum
 Aqui vas a describir que es scrum etc etc...
 <center>
-![Esta es una imagen] (http://www.mountaingoatsoftware.com/uploads/blog/ScrumMediumLabelled.png)
+![Esta es una imagen] (http://www.yodiz.com/blog/wp-content/uploads/2016/01/Scrum_process.svg_.png)
 <center>
 Scrum es...
