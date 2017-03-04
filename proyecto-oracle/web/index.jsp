@@ -13,5 +13,20 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        
+        <%-- FORMULARIO PARA AUTENTICAR 
+       metodo post siempre es para autenticar de forma SEGURA
+        FORMULARIO PARA HTML
+        
+        INPUT TYPE REDIRECCIONA A OTRO LADO, UNA NUEVA PAGINA
+         AJAX button hace todo dentro de la misma pagina
+        --%>
+        
+        <form action="autenticar" method="post">
+        <input type="text" name="login" placeholder="login"/>
+         <input type="password" name="password" placeholder="password"/>
+         <input type="submit" value="ingresar a oracle"/>
+        
+        
     </body>
 </html>
